@@ -35,7 +35,7 @@ void inputNumber(int num, string p )
     
     /*
     else
-    {
+    { hello there 
 
         if(num ==1)
             location[0][0]="o";
