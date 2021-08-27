@@ -1,3 +1,13 @@
+/*
+Name: Tenzing Nyima
+
+Tic Tac created mostly using if and else statements,
+
+
+
+
+*/
+
 #include<iostream>
 //#include<string>
 using namespace std;
@@ -150,6 +160,8 @@ int main()
     takeInput();
     return 0;
 
+
+// tic tac completed.
 
 
 }
